@@ -1,0 +1,17 @@
+{
+  "name": "top_weather",
+  "version": "1.0.0",
+  "description": "Weather App for The Odin Project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.5.1",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.62.1",
+    "webpack-cli": "^4.9.1"
+  }
+}
