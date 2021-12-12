@@ -1,0 +1,29 @@
+#weather-display-container {
+    display: flex;
+    flex-direction: column;
+    font-size: 2em;
+    gap: 1rem;
+    width: 50%;
+    background-color: black;
+    color: white;
+    height: 90%;
+}
+
+#temp-display {
+    display: flex;
+}
+
+#temp {
+    width: 3rem;
+}
+
+#temp-button { 
+    text-align: center;
+    background-color: black;
+    color: white;
+    width: 2rem;
+}
+
+#temp-button:hover {
+    border-bottom: 2px solid white;
+}
